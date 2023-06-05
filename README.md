@@ -11,7 +11,7 @@
 - get add .
 - git commit -m "최초 커밋"
 
-##Github 업로드하기
+## Github 업로드하기
 
 - git remote add origin 주소
 - git push origin master
@@ -22,3 +22,8 @@
 - git add .
 - git commit -m "변경내용적고"
 - git push origin master
+
+## 잘안될떄 해결법
+
+- git remote - v
+- git remote rm origin
