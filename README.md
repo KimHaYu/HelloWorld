@@ -7,7 +7,7 @@
 
 ## Git 시작하기
 
-- get init
+- git init
 - get add .
 - git commit -m "최초 커밋"
 
