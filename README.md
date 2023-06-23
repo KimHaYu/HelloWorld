@@ -8,7 +8,7 @@
 ## Git 시작하기
 
 - git init
-- get add .
+- git add .
 - git commit -m "최초 커밋"
 
 ## Github 업로드하기
